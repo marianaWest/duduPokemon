@@ -1,0 +1,89 @@
+html {
+    font-size: 62.5;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    font-size: 3.5rem;
+    padding: 0;
+    padding-top: 2%;
+    margin: 0;
+    /* color: rgb(12, 93, 159); */
+    color: red;
+    text-shadow: 3px 3px 8px yellow;
+}
+
+h2 {
+    font-family: 'Sniglet', cursive;
+    padding: 0 2%;
+    text-align: center;
+    color: rgb(13, 68, 109);
+}
+
+h3 {
+    font-family: 'Sniglet', cursive;
+    padding: 0 2%;
+    text-align: center;
+    color: rgb(11, 72, 122);
+}
+
+.input {
+    padding: 0;
+    text-align: center;
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dudu {
+    width: 40%;
+}
+
+.imagePokemon {
+    width: 30%;
+}
+
+button {
+    font-family: 'Sniglet', cursive;
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgb(228, 19, 19);
+    background-color: yellow;
+    border: 2px solid transparent;
+    padding: 0;
+    margin: 0;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    box-shadow: 3px 3px 5px lightblue;
+}
+
+button:hover {
+    background-color: orange;
+    cursor: pointer;
+}
+
+input {
+    font-family: 'Sniglet', cursive;
+    font-size: 1.8rem;
+    height: 36px;
+    width: 200px;
+    background-color: rgba(255, 255, 0, 0.5);
+    border-radius: 10px;
+    margin-right: 10px;
+    border: 3px solid orange;
+    color: rgb(228, 19, 19);
+    padding-left: 10px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+}
