@@ -1,5 +1,5 @@
 # duduPokemon
 
-A cut web app to help my nephew choose his Pokemon pet. 
+A cute and fun web app to help my nephew choose his Pokemon housepet. 
 
-Inspired by MayanWolfe's streams. 
+
