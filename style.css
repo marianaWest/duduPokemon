@@ -10,7 +10,7 @@ h1 {
     padding: 0;
     padding-top: 2%;
     margin: 0;
-    /* color: rgb(12, 93, 159); */
+    margin-bottom: 20px;
     color: red;
     text-shadow: 3px 3px 8px yellow;
 }
