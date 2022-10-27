@@ -44,24 +44,14 @@ h4 {
     text-align: center;
 }
 
-.images {
-    /* display: flex;
-    flex-direction: row; */
-    /* justify-content: space-between;
-    align-items: center; */
-    border: 1px solid black;
-}
-
 .dudu {
     min-width: 200px;
     max-width: 25%;
-    border: 1px solid red;
 }
 
 .imagePokemon {
     min-width: 200px;
     max-width: 25%;
-    border: solid 1px green;
 }
 
 button {
@@ -71,8 +61,6 @@ button {
     color: rgb(228, 19, 19);
     background-color:  rgba(255, 255, 0, 0.5);
     border: 2px solid transparent;
-    /* padding: 0;
-    margin: 0; */
     border-radius: 50%;
     max-width: 200px !important;
     height: 200px;
@@ -97,8 +85,3 @@ input {
     padding-left: 10px;
 }
 
-/* img { */
-    /* display: block; */
-    /* margin: 0 auto;
-    padding: 0; */
-/* } */
