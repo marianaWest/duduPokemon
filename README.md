@@ -11,11 +11,9 @@ Enter the name of a Pokemon and click "descubra" to find out.
 # Built with
 
   - JavaScript
-  - React
-  - Redux
-  - TailwindCSS
-  - Node.js
-  - Express
+  - Bootstrap
+  - Pokemon API
+
 
 # Installation
 
@@ -23,55 +21,14 @@ Enter the name of a Pokemon and click "descubra" to find out.
 
 **Example:**
 
-To install {YOUR_PROJECT_NAME} locally, please follow the steps below:
-  - Clone repo to your machine
-  - Open the root of the project and install all dependencies with `npm i` / `yarn`
-  - Project has various scripts to run:
-    - `npm start` - running local version
-    - `npm run test` - run tests
+To install Dudu Pokemon locally:
+  - Clone repo to your machine;
+  - Get an API key at (https://pokeapi.co/)
 
 # What I have learned
+I learned how to use fetch and connect to the Poke API. It was also an opportunity to draw a vector portrait of my nephew. 
 
-[Tell more about what you have learned while building this project]
-It was also an opportunity to draw a vector portrait of my nephew. 
+# Source  
+This project was done as part of the 100Devs course curriculum and it's based on Mayanwolfe's VOD on YouTube. 
 
-**Example:**
-
-While I was building {YOUR_PROJECT_NAME} I have learned the fundamentals of React and Redux. I learned what is the difference between React Context API and Redux, and what works best for my current application. I have used Reat hooks like useEffect, useState. It was my first project using TypeScript and I have learned a lot about TypeScript type definitions and fundamentals.
-
-# What issues have I faced and how I resolved them
-
-[Tell what was hard in the process of building the project. Tell about where have you feel stuck and how did you overcome this.]
-
-**Example:**
-
-When I tried to connect to the third-party API, I was not sure how to use fetch and what is the difference between async/await, what are Promises and how to use them. After some Googling I found out the MDN documentation about async/await and tried to use it in practice - it worked! 
-
-# Source
-
-[Is this project was part of the course? Is it your own idea? Is it came from community?]
-
-**Example:**
-
-This project is done as part of the SheCodes course curriculum. 
-
-
-# ---- TEMPLATE ENDS HERE ---- 
-
-This is definitely way better than your generic Create React App README. Use it, make your projects stand out from the rest. 
-
-# Contribution
-
-Feel free to contribute in any way possible. To contribute, please do the following:
-
-- `git clone` this repo
-- Go to the root folder of this project and checkout to another branch
-- `git checkout {your-nickname}-rename-title
-- Do your stuff
-- `git add .`
-- `git commit -m "any descriptive message"`
-- `git push origin {your-nickname}-rename-title`
-- Submit a PR for review
-
-# For beginners with love
 
