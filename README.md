@@ -2,7 +2,7 @@
 
 [PLACE_FOR_YOUR_IMAGE]
 
-[PLACE_TO_ADD_LINK_FOR_DEPLOYED_VERSION]
+https://marianawest.github.io/duduPokemon/
 
 This is a web application that allows my nephew to check whether a Pokemon is a suitable pet for him to have at home -- not dangerous, too heavy or too big. 
 
