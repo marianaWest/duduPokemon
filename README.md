@@ -1,6 +1,7 @@
 # Dudu Pokemon
 
-[PLACE_FOR_YOUR_IMAGE]
+<img width="810" alt="duduPokemon" src="https://user-images.githubusercontent.com/97693233/200299880-cad86f24-7971-414a-bb93-9cf0fead8478.PNG">
+
 
 https://marianawest.github.io/duduPokemon/
 
