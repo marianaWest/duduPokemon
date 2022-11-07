@@ -17,10 +17,6 @@ Enter the name of a Pokemon and click "descubra" to find out.
 
 # Installation
 
-[Explain how to install your project locally. Technical person would want to clone your repo, check code and run it locally]
-
-**Example:**
-
 To install Dudu Pokemon locally:
   - Clone repo to your machine;
   - Get an API key at (https://pokeapi.co/)
